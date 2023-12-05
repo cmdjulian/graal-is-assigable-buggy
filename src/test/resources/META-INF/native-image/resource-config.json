@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "includes": [
+      {
+        "pattern": "\\Qorg/testcontainers/utility/ResourceReaper.class\\E"
+      }
+    ]
+  },
+  "bundles": []
+}
