@@ -29,4 +29,6 @@ enum SupportedResponses {
 }
 ```
 
-Find can find the issue at https://github.com/oracle/graal/issues/7966
+Raised issue is `java.lang.IllegalArgumentException: Unsupported response type: [B`.
+
+You can find the issue at https://github.com/oracle/graal/issues/7966
