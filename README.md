@@ -1,4 +1,4 @@
-# Bug Report for GraalVM
+# Bug Report for GraalVM for JDK 21
 
 Showcase a bug where native image behaves different from the JVM where `.isAssignableFrom(someClazz)` delivers a
 different result than the JVM. This only happens for optimization levels greater than `-O0`.
